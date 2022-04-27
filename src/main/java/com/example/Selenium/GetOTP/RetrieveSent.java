@@ -1,6 +1,6 @@
 package com.example.Selenium.GetOTP;
 
-import com.example.Selenium.MailProps;
+import com.example.Selenium.Utils.MailProps;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;

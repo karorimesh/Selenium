@@ -1,7 +1,6 @@
 package com.example.Selenium.GetOTP;
 
-import com.example.Selenium.MailProps;
-import com.example.Selenium.SendAlert.SendAlertUtil;
+import com.example.Selenium.Utils.MailProps;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -9,7 +8,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.mail.MessagingException;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 @RestController
 @RequestMapping("/selApi")

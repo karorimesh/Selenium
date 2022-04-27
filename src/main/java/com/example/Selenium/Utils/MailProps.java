@@ -1,4 +1,4 @@
-package com.example.Selenium;
+package com.example.Selenium.Utils;
 
 
 import lombok.AllArgsConstructor;

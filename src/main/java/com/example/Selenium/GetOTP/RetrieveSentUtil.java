@@ -1,6 +1,6 @@
 package com.example.Selenium.GetOTP;
 
-import com.example.Selenium.MailProps;
+import com.example.Selenium.Utils.MailProps;
 
 import javax.mail.MessagingException;
 import java.io.IOException;
